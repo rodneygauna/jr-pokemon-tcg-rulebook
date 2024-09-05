@@ -72,7 +72,7 @@ Pokemon cards have a lot of information on them. Here are the most important par
 : This tells you what Pokemon you can evolve this Pokemon from.
 
 **Attacks**
-: This tells you what attacks the Pokemon can use. Each attack has an Energy cost, a attack name, and damage it does. For example, `3 Energy - Thunder Shock - 40 damage`.
+: This tells you what attacks the Pokemon can use. Each attack has an Energy cost, a attack name, and damage it does. For example, `3 Electric Energy - Thunder Shock - 40 damage`.
 
 ### Card Types
 
@@ -82,7 +82,7 @@ You'll find 2 different types of cards for the Pokemon TCG Junior edition:
 The most important cards are Pokemon! Most of these cards are Basic Pokemon, Stage 1 Pokemon, and Stage 2 Pokemon. Stage 1 and Stage 2 Pokemon are also called Evolution cards. Look at the upper-left corner and you will see the Pokemon's Stage and the Pokemon it evolves from, if any.
 
 **Energy Cards**
-Most of the time, Pokemon can't attack without Energy cards! You'll need to match the symbols of the attack cost to the Energy card, but any of Energy can be used for 'colorless'.
+Most of the time, Pokemon can't attack without Energy cards! You'll need to match the symbols of the attack cost to the Energy card, but any of Energy can be used for 'Colorless'.
 
 ## Zones for the Game
 
